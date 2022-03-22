@@ -1,5 +1,6 @@
 # SkillLuckSimulator
 The following code helps get to the bottom of what it takes to be "SUCCESSFUL".
+
 SKILL: The ability gained over a period of time that allows for an individual to become better at a certain ask. 
 It is also important that this ability comes with ONLY the efforts of the individual and nothing out of the individual’s control.
 
