@@ -21,3 +21,7 @@ a threshold. This can mean any of the following and I will be sure to specify wh
 a specified percentage of the population, the person has achieved an overall score that they have set for themselves. An example of these for 
 juggling would be “I would like to be able to juggle 3 balls longer than 99% of people”. Another example for the set score method would be 
 “I would like to be able to juggle 3 balls longer than 30 seconds”.
+
+YOU CAN EDIT THE VARIABLES IN THE CODE TO GENERATE THE DATA.
+
+No credit required if used but appreciated anyway. Open-Source and for the world to have fun with 🙂.
